@@ -1,0 +1,15 @@
+artifact_uri: file:///home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/0/fcbde640d68846beaef83be2fcf7303d/artifacts
+end_time: 1685291952471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcbde640d68846beaef83be2fcf7303d
+run_name: caring-shrew-476
+run_uuid: fcbde640d68846beaef83be2fcf7303d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685291947032
+status: 3
+tags: []
+user_id: eykos
