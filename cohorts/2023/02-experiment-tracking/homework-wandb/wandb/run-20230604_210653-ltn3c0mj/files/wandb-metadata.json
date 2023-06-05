@@ -1,0 +1,165 @@
+{
+    "os": "Linux-5.19.0-42-generic-x86_64-with-glibc2.35",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-06-05T02:06:54.331296",
+    "startedAt": "2023-06-05T02:06:53.524691",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/preprocess_data.py",
+    "codePath": "cohorts/2023/02-experiment-tracking/homework-wandb/preprocess_data.py",
+    "git": {
+        "remote": "https://github.com/ejyepezm/mlops-zoomcamp.git",
+        "commit": "92803f53c373f0c7ebbad9473ac5795fa44ffb01"
+    },
+    "email": "ejyepezm@uwaterloo.ca",
+    "root": "/home/eykos/edu/mlops-zoomcamp",
+    "host": "eykos-Legion-Y540-17IRH",
+    "username": "eykos",
+    "executable": "/home/eykos/miniconda3/envs/eda_general/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 2.8729166666666663,
+        "min": 800.0,
+        "max": 4950.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1.102,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 2.004,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 2.166,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 1.929,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 2.219,
+            "min": 800.0,
+            "max": 5400.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5400.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5400.0
+        },
+        {
+            "current": 2.092,
+            "min": 800.0,
+            "max": 5400.0
+        },
+        {
+            "current": 2.65,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 1.443,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        }
+    ],
+    "disk": {
+        "total": 286.8157653808594,
+        "used": 110.8623275756836
+    },
+    "gpu": "NVIDIA GeForce GTX 1660 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1660 Ti",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.39719009399414
+    }
+}

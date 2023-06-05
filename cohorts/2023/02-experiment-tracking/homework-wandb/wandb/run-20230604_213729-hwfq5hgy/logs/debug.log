@@ -1,0 +1,34 @@
+2023-06-04 21:37:29,815 INFO    Thread-79 (_run_job):13135 [wandb_setup.py:_flush():76] Current SDK version is 0.15.3
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_setup.py:_flush():76] Configure stats pid to 13135
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_setup.py:_flush():76] Loading settings from /home/eykos/.config/wandb/settings
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_setup.py:_flush():76] Loading settings from /home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/wandb/settings
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'entity': 'ejyepezm', 'project': 'wandb_test', 'root_dir': '/home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb', 'run_id': 'hwfq5hgy', 'sweep_param_path': '/home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/wandb/sweep-z6v4f8ae/config-hwfq5hgy.yaml', 'sweep_id': 'z6v4f8ae'}
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'cohorts/2023/02-experiment-tracking/homework-wandb/sweep.py', 'program': '/home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/sweep.py'}
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_init.py:_log_setup():507] Logging user logs to /home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/wandb/run-20230604_213729-hwfq5hgy/logs/debug.log
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_init.py:_log_setup():508] Logging internal logs to /home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/wandb/run-20230604_213729-hwfq5hgy/logs/debug-internal.log
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_init.py:init():547] calling init triggers
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_init.py:init():554] wandb.init called with sweep_config: {'max_depth': 12, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 17}
+config: {}
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_init.py:init():596] starting backend
+2023-06-04 21:37:29,816 INFO    Thread-79 (_run_job):13135 [wandb_init.py:init():600] setting up manager
+2023-06-04 21:37:29,820 INFO    Thread-79 (_run_job):13135 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-06-04 21:37:29,821 INFO    Thread-79 (_run_job):13135 [wandb_init.py:init():606] backend started and connected
+2023-06-04 21:37:29,822 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_config_callback():1286] config_cb None None {'max_depth': 12, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 17}
+2023-06-04 21:37:29,823 INFO    Thread-79 (_run_job):13135 [wandb_init.py:init():700] updated telemetry
+2023-06-04 21:37:29,824 INFO    Thread-79 (_run_job):13135 [wandb_init.py:init():737] communicating run to backend with 60.0 second timeout
+2023-06-04 21:37:30,306 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_on_init():2177] communicating current version
+2023-06-04 21:37:30,600 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_on_init():2186] got version response 
+2023-06-04 21:37:30,600 INFO    Thread-79 (_run_job):13135 [wandb_init.py:init():787] starting run threads in backend
+2023-06-04 21:37:31,941 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_console_start():2158] atexit reg
+2023-06-04 21:37:31,941 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_redirect():2013] redirect: 3
+2023-06-04 21:37:31,941 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_redirect():2078] Wrapping output streams.
+2023-06-04 21:37:31,941 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_redirect():2103] Redirects installed.
+2023-06-04 21:37:31,941 INFO    Thread-79 (_run_job):13135 [wandb_init.py:init():829] run started, returning control to user process
+2023-06-04 21:37:34,529 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_finish():1893] finishing run ejyepezm/wandb_test/hwfq5hgy
+2023-06-04 21:37:34,529 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_atexit_cleanup():2127] got exitcode: 0
+2023-06-04 21:37:34,529 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_restore():2110] restore
+2023-06-04 21:37:34,529 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_restore():2116] restore done
+2023-06-04 21:37:40,770 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_footer_history_summary_info():3469] rendering history
+2023-06-04 21:37:40,770 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_footer_history_summary_info():3501] rendering summary
+2023-06-04 21:37:40,774 INFO    Thread-79 (_run_job):13135 [wandb_run.py:_footer_sync_info():3428] logging synced files

@@ -1,0 +1,172 @@
+{
+    "os": "Linux-5.19.0-42-generic-x86_64-with-glibc2.35",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-06-05T02:26:14.289226",
+    "startedAt": "2023-06-05T02:26:13.483613",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "wandb_test",
+        "--wandb_entity",
+        "ejyepezm",
+        "--data_artifact",
+        "wandb_test/ejyepezm/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "/home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/train.py",
+    "codePath": "cohorts/2023/02-experiment-tracking/homework-wandb/train.py",
+    "git": {
+        "remote": "https://github.com/ejyepezm/mlops-zoomcamp.git",
+        "commit": "92803f53c373f0c7ebbad9473ac5795fa44ffb01"
+    },
+    "email": "ejyepezm@uwaterloo.ca",
+    "root": "/home/eykos/edu/mlops-zoomcamp",
+    "host": "eykos-Legion-Y540-17IRH",
+    "username": "eykos",
+    "executable": "/home/eykos/miniconda3/envs/eda_general/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3.536958333333333,
+        "min": 800.0,
+        "max": 4950.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3.089,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 1.1,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 1.994,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 4.833,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 1.768,
+            "min": 800.0,
+            "max": 5400.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5400.0
+        },
+        {
+            "current": 2.981,
+            "min": 800.0,
+            "max": 5400.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5400.0
+        },
+        {
+            "current": 2.279,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.365,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 2.814,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 1.076,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        },
+        {
+            "current": 3.4,
+            "min": 800.0,
+            "max": 4200.0
+        }
+    ],
+    "disk": {
+        "total": 286.8157653808594,
+        "used": 110.90016174316406
+    },
+    "gpu": "NVIDIA GeForce GTX 1660 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1660 Ti",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.39719009399414
+    }
+}

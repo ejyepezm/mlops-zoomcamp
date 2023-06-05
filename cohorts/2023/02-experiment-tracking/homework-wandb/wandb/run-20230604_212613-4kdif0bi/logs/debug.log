@@ -1,0 +1,27 @@
+2023-06-04 21:26:13,485 INFO    MainThread:11886 [wandb_setup.py:_flush():76] Current SDK version is 0.15.3
+2023-06-04 21:26:13,485 INFO    MainThread:11886 [wandb_setup.py:_flush():76] Configure stats pid to 11886
+2023-06-04 21:26:13,485 INFO    MainThread:11886 [wandb_setup.py:_flush():76] Loading settings from /home/eykos/.config/wandb/settings
+2023-06-04 21:26:13,485 INFO    MainThread:11886 [wandb_setup.py:_flush():76] Loading settings from /home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/wandb/settings
+2023-06-04 21:26:13,485 INFO    MainThread:11886 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-06-04 21:26:13,485 INFO    MainThread:11886 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-06-04 21:26:13,485 INFO    MainThread:11886 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'cohorts/2023/02-experiment-tracking/homework-wandb/train.py', 'program': '/home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/train.py'}
+2023-06-04 21:26:13,485 INFO    MainThread:11886 [wandb_init.py:_log_setup():507] Logging user logs to /home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/wandb/run-20230604_212613-4kdif0bi/logs/debug.log
+2023-06-04 21:26:13,486 INFO    MainThread:11886 [wandb_init.py:_log_setup():508] Logging internal logs to /home/eykos/edu/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/wandb/run-20230604_212613-4kdif0bi/logs/debug-internal.log
+2023-06-04 21:26:13,486 INFO    MainThread:11886 [wandb_init.py:init():547] calling init triggers
+2023-06-04 21:26:13,486 INFO    MainThread:11886 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {'max_depth': 10, 'random_state': 0}
+2023-06-04 21:26:13,486 INFO    MainThread:11886 [wandb_init.py:init():596] starting backend
+2023-06-04 21:26:13,486 INFO    MainThread:11886 [wandb_init.py:init():600] setting up manager
+2023-06-04 21:26:13,489 INFO    MainThread:11886 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-06-04 21:26:13,491 INFO    MainThread:11886 [wandb_init.py:init():606] backend started and connected
+2023-06-04 21:26:13,492 INFO    MainThread:11886 [wandb_init.py:init():700] updated telemetry
+2023-06-04 21:26:13,494 INFO    MainThread:11886 [wandb_init.py:init():737] communicating run to backend with 60.0 second timeout
+2023-06-04 21:26:13,982 INFO    MainThread:11886 [wandb_run.py:_on_init():2177] communicating current version
+2023-06-04 21:26:14,266 INFO    MainThread:11886 [wandb_run.py:_on_init():2186] got version response 
+2023-06-04 21:26:14,266 INFO    MainThread:11886 [wandb_init.py:init():787] starting run threads in backend
+2023-06-04 21:26:15,582 INFO    MainThread:11886 [wandb_run.py:_console_start():2158] atexit reg
+2023-06-04 21:26:15,582 INFO    MainThread:11886 [wandb_run.py:_redirect():2013] redirect: 3
+2023-06-04 21:26:15,582 INFO    MainThread:11886 [wandb_run.py:_redirect():2078] Wrapping output streams.
+2023-06-04 21:26:15,582 INFO    MainThread:11886 [wandb_run.py:_redirect():2103] Redirects installed.
+2023-06-04 21:26:15,582 INFO    MainThread:11886 [wandb_init.py:init():829] run started, returning control to user process
+2023-06-04 21:26:23,863 WARNING MsgRouterThr:11886 [router.py:message_loop():77] message_loop has been closed
